@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 20
+Implementation-Title: onlinebanking-Transaction-Feign-Resilience4j-Retry
+ -SZ
+Implementation-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+
